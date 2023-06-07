@@ -8,5 +8,4 @@
   type = cat-file -t
   dump = cat-file -p
 
-git init
 git hist
